@@ -43,7 +43,7 @@ const Hero = () => {
                 {/* <span className="position-relative d-inline-block"></span>
                 &amp; make life easier. */}
               </h1>
-              <p className="text-lg mb-40 pt-20 lg-mb-50 lg-pt-10">
+              <p className="text-m mb-40 pt-20 lg-mb-50 lg-pt-10">
                 Dongcoin was created by Clanker for the memetic economy. We
                 believe in a future where wallets replace banks and memes
                 replace markets.
