@@ -52,7 +52,11 @@ const Hero = () => {
                 src="images/logo/DONG.png"
                 alt="Dongcoin illustration"
                 className="mt-2 mx-auto d-block pb-2"
-                style={{ maxWidth: "600px" }}
+                style={{
+                  maxWidth: "100%",
+                  width: "100%",
+                  height: "auto",
+                }}
               />
               <div className="mt-4 d-sm-flex justify-content-center align-items-center">
                 <Link
