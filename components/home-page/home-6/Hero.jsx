@@ -15,7 +15,7 @@ const Hero = () => {
         onClose={() => setOpen(false)}
       />
 
-      <div className="hero-banner-two position-relative pt-190 lg-pt-180 md-pt-100">
+      <div className="hero-banner-two position-relative pt-120 lg-pt-100 md-pt-80">
         {/* <img
           src="/images/shape/shape_26.svg"
           alt="shape"
