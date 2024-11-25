@@ -64,7 +64,7 @@ const Hero = () => {
                   className="tran3s fs-17 fw-500 btn-three mb-25 ms-2 me-3"
                   target="_blank"
                 >
-                  Buy $DONG
+                  Buy Dongcoin
                 </Link>
                 {/* <div
                   role="button"
